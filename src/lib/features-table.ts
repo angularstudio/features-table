@@ -1,4 +1,4 @@
-import { DatatableColumn } from '@angular.studio/datatable/datatable-column';
+import { DatatableColumn } from '@angular.studio/datatable';
 
 export class FeaturesTable {
 
